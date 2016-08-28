@@ -14,7 +14,7 @@ public class MultiplicationTest {
 	@Test
 	public void multiplicandoValoresAleatorios() {
 		
-		// hace 100 multiplicaciones
+		// hace 1000 multiplicaciones
 		for (int times = 0; times < 1000; ++times) {
 
 			// genera dos números aleatorios
